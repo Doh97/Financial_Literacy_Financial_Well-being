@@ -1,7 +1,12 @@
 # Financial Literacy and Financial Well-being
 
 ## Project Description
-### Participating Researchers: Myeongrok Doh (The University of Texas at Austin), David Puelz (The University of Texas at Austin), Robert Puelz (Southern Methodist University Cox School of Business)
+### Participating Researchers: 
+Myeongrok Doh (The University of Texas at Austin)
+
+David Puelz (The University of Texas at Austin)
+
+Robert Puelz (Southern Methodist University Cox School of Business)
 
 ### Project Summary
 This project investigates the effect of financial literacy on a widely used measure of financial well-being, controlling for socioeconomic and financial behavioral factors. 
