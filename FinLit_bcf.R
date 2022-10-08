@@ -74,14 +74,12 @@ fit_bcf = function(Y,X,D,datnew){
   pihat = predict(fit_glmnet,newx=X)
   # Second stage  
   fit_bcf = bcf(y=Y,z=D,x_control=X,x_moderate=X,pihat=pihat,nburn=1000,nsim=9000)
-    # the original codes: nburn=10000, nsim=90000
+    # the codes used for the original paper: nburn=10000, nsim=90000
     # but it takes much time so I replaced them with lower numbers here
   return(fit_bcf$tau)
 }
 
-# if want to see the original data I created for research,
-  # load('bcf_results.RData')
-bcf1 <- fit_bcf(Y,X,D,datnew) 
+bcf1 <- fit_bcf(Y,X,D,datnew)
 summary(bcf1)
 xdf = data.frame(X)
 n = nrow(xdf)
