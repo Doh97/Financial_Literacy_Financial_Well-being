@@ -1,7 +1,7 @@
 # Financial Literacy and Financial Well-being
 
 ## Project Description
-### Project Summary
+
 This project investigates the effect of financial literacy on a widely used measure of financial well-being, controlling for socioeconomic and financial behavioral factors. 
 
 We analyze survey data from the 2018 National Financial Capability Study (NFCS) by the Financial Industry Regulatory Authority (FINRA). It uses the financial well-being scale developed by the Consumer Financial Protection Bureau (CFPB) for the outcome variable. We measure financial literacy as the number of correct answers to literacy questions in the 2018 NFCS.  
